@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="21" updatableVersionMin="" updatableVersionMax="" fileName="SuperReferencer_windows_0_5a.exe" newVersion="0.5a" newMediaFileId="21" fileSize="29786112" bundledJre="" archive="false">
+    <comment />
+  </entry>
+  <entry targetMediaFileId="22" updatableVersionMin="" updatableVersionMax="" fileName="SuperReferencer_unix_0_5a.sh" newVersion="0.5a" newMediaFileId="22" fileSize="29062483" bundledJre="" archive="false">
+    <comment />
+  </entry>
+  <entry targetMediaFileId="23" updatableVersionMin="" updatableVersionMax="" fileName="SuperReferencer_macos_0_5a.dmg" newVersion="0.5a" newMediaFileId="23" fileSize="29474816" bundledJre="" archive="false">
+    <comment />
+  </entry>
+</updateDescriptor>
+
